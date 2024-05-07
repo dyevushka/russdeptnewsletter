@@ -5,6 +5,8 @@ layout: default
 
 ## About
 
-## Three page newsletter of department activities 
+## Russian Department 2023-24 newsletter
+
+[russdept2324.pdf](russdept2324.pdf)
 
 ## Highlights are: 
