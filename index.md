@@ -7,6 +7,6 @@ layout: default
 
 ## Russian Department 2023-24 newsletter
 
-[russdept2324.pdf](#Russian Department 2023-24)
+[Newsletter 2023-24](russdept2324.pdf)
 
 ## Highlights are: 
